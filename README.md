@@ -9,8 +9,6 @@ Follow me on
   </a>
   
 
-
-[Medium.com](https://hardik-thakar.medium.com/), 
 - 🌱 I’m currently working as Node JS developer
 - 👀 I love to explore javascript frontend and backend 
 - 💞️ I’m currently learning redux and frontend libraries
